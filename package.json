@@ -1,0 +1,7 @@
+{
+    "description": "WCHISP upload tool binary package",
+    "name": "tool-wchisp-sz",
+    "system": "all",
+    "url": "https://github.com/verylowfreq/wchisp_binary_package/",
+    "version": "0.0.0"
+}
